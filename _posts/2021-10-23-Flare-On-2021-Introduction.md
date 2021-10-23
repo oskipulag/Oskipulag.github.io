@@ -4,7 +4,7 @@ I am the 100πth finisher of this years Flare-On, I will share how I completed t
 
 <div style="text-align:center"><img src="/images/314.png"/></div>
 
-I think the *anonymous* accounts are not used in the official counting, even though they are shown on the progress overview at https://2021.flare-on.com/scoreboard. So I corrected the above image for this inconvenience.
+I think the *anonymous* accounts are not used in the official counting, even though they are shown on the progress overview at [this years scoreboard](https://2021.flare-on.com/scoreboard). So I corrected the above image for this inconvenience.
 
 
 
