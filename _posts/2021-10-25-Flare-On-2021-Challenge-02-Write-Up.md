@@ -1,4 +1,4 @@
-##
+## Challenge 02 - Known
 
 In this challenge we are presented with the following message:
 
